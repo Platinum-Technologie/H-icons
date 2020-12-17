@@ -20,3 +20,6 @@ All icons are entierly free to use. When using them you have to respect the term
 icons have bean made with Vectr and Inkscape, which are both free software. Here are the links:
   - Vectr: https://vectr.com/
   - Inkscape: https://inkscape.org/
+
+------
+###### H-icons v: 0.0.1
