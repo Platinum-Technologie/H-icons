@@ -3,7 +3,7 @@ Lite icons for developments, design, application etc.
 ------
 
 # Explaining
-<u>H-icons</u> stands for ***Hydrogen*** icons, referring to the fact that the icons are lite and simple like the hydrogen atom.
+<u> H-icons </u> stands for ***Hydrogen*** icons, referring to the fact that the icons are lite and simple like the hydrogen atom.
 
 # Goal
 All icons in this repository are meant to be free to use for any mean, such as application developpements (especially).
