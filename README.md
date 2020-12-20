@@ -17,9 +17,8 @@ All icons are entierly free to use. When using them you have to respect the term
 ------
 
 # Other information
-icons have bean made with Vectr and Inkscape, which are both free software. Here are the links:
+icons have bean made with Vectr, which is a free software. Here is the link:
   - Vectr: https://vectr.com/
-  - Inkscape: https://inkscape.org/
 
 ------
 ###### H-icons v: 0.0.1
